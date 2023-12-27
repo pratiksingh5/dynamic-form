@@ -1,0 +1,41 @@
+{
+  "title": "",
+  "category": "",
+  "subCategory": "",
+  "email": "",
+  "image": {
+    "data": "",
+    "fileName": ""
+  },
+  "productDetails": {
+    "highlights": "",
+    "productTags": "",
+    "productVariants": [
+      {
+        "productSku": "",
+        "price": 0,
+        "currency": "",
+        "packageContents": "",
+        "description": "",
+        "inventory": 0,
+        "images": [
+          {
+            "imageSet": [
+              {
+                "fileName": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "metadata": {
+          "weight": 0,
+          "unitOfMeasurement": "",
+          "packagingContainerType": "",
+          "flavour": "",
+          "ranking": 0
+        }
+      }
+    ]
+  }
+}

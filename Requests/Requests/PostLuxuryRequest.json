@@ -1,0 +1,41 @@
+{
+  "title": "",
+  "category": "",
+  "subCategory": "",
+  "email": "",
+  "image": {
+    "data": "",
+    "fileName": ""
+  },
+  "productDetails": {
+    "highlights": "",
+    "productTags": "",
+    "productVariants": [
+      {
+        "productSku": "",
+        "price": "",
+        "currency": "",
+        "images": [
+          {
+            "imageSet": [
+              {
+                "fileName": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "packageContents": "",
+        "description": "",
+        "inventory": 0,
+        "metadata": {
+          "size": "",
+          "colour": "",
+          "material": "",
+          "care": "",
+          "ranking": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "",
+  "category": "",
+  "subCategory": "",
+  "email": "",
+  "image": {
+    "data": "",
+    "fileName": ""
+  },
+  "productDetails": {
+    "highlights": "",
+    "productTags": "",
+    "productVariants": [
+      {
+        "productSku": "",
+        "price": "",
+        "currency": "",
+        "images": [
+          {
+            "imageSet": [
+              {
+                "fileName": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "packageContents": "",
+        "description": "",
+        "inventory": 0,
+        "metadata": {
+          "artist": "",
+          "material": "",
+          "dimension": "",
+          "rarity": "",
+          "medium": "",
+          "creationYear": 0,
+          "ranking": 0
+        }
+      }
+    ]
+  }
+}
